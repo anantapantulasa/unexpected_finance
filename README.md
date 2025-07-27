@@ -2,7 +2,7 @@
 
 **Authors:** Saranya Anantapantula & Jessica Wachter  
 
-This repository accompanies the paper (Finance and the Unexpected) and contains the Python code and data used to generate our simulations and empirical figures. 
+This repository accompanies our paper and contains the Python code and data used to generate the simulations and empirical figures. 
 
 ---
 
