@@ -1,18 +1,26 @@
-# Finance and the Unexpected – Appendix Code
+# Finance and the Unexpected - Paper & Appendix Code
 
 **Authors:** Saranya Anantapantula & Jessica Wachter  
 
-This repository contains the Python code and data used to generate the figures in the appendix of the paper:
+This repository accompanies the paper (Finance and the Unexpected) and contains the Python code and data used to generate our simulations and empirical figures. 
+
+---
+
+## Contents of this Repository 
+
+**Paper Draft**
+- [`Finance_and_the_Unexpected.pdf`](./Finance_and_the_Unexpected.pdf) – the current draft of the paper itself.
 
 
+**Appendix Code & Data**  
 - **`notebooks/Appendix.ipynb`** – Main Jupyter notebook reproducing all appendix figures.  
 - **`/data`** – CSV files for WRDS and CBOE data used in Figures 4, 5, 8, 13, and 14.  
 
 ---
 
-## Figures
+## Simulation & Empirical Figures 
 
-The notebook generates the following figures from the paper’s appendix:
+The notebook provides the code for the following figures in the Appendix:
 
 | Figure | Description | Data Source |
 | ------ | ----------- | ----------- |
