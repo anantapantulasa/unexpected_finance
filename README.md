@@ -13,7 +13,7 @@ This repository accompanies our paper and contains the Python code and data used
 
 
 **Appendix Code & Data**  
-- **`notebooks/Appendix.ipynb`** – Main Jupyter notebook reproducing all appendix figures.  
+- **`notebooks/Appendix.ipynb`** – Main Jupyter notebook reproducing all appendix figures (**`notebooks/Appendix.pdf`** is the PDF version for better viewing).
 - **`/data`** – CSV files for WRDS and CBOE data used in Figures 4, 5, 8, 13, and 14.  
 
 ---
