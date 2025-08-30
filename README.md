@@ -9,9 +9,9 @@ This repository accompanies the paper *Finance and the Unexpected* and contains 
 ## Repository Structure
 
 ### Documents [`documents/`]
-- [`FinanceAndTheUnexpected.pdf`](./FinanceAndTheUnexpected.pdf)  
+- [`FinanceAndTheUnexpected.pdf`](./documents/FinanceAndTheUnexpected.pdf)  
   Draft of the main paper.  
-- [`Appendix_PDF.pdf`](./Appendix_PDF.pdf)  
+- [`Appendix_PDF.pdf`](./documents/Appendix_PDF.pdf)  
   PDF export of the main Jupyter notebook for easier viewing.  
 - [`FinanceAndTheUnexpected_Latex/`](./documents/FinanceAndTheUnexpected_Latex/)  
   LaTeX source folder for the paper, including figures, bibliography file, and `.tex` files.
