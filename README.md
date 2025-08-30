@@ -25,6 +25,8 @@ This repository accompanies the paper *Finance and the Unexpected* and contains 
   Main Jupyter notebook reproducing all appendix figures.  
 - [`data/`](./replication_package/data/)  
   Contains CSV files (WRDS and CBOE) used for Figures 4, 5, 8, 13, and 14.  
+- [`figures/`](./replication_package/figures/)  
+  PNG files of figures 4, 5, 8, 13, and 14.  
 
 ---
 
