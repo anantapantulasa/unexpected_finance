@@ -1,0 +1,68 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{booktabs}
+\usepackage{geometry}
+\usepackage{natbib}
+\usepackage{url}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usepackage{subcaption}
+\usepackage{xcolor}
+\usepackage{setspace}
+\usepackage{dirtytalk}
+\usepackage{graphicx}
+\graphicspath{ {./images/} }
+\usepackage[rightcaption]{sidecap}
+\usepackage[colorlinks=true, linkcolor=blue, citecolor=blue, urlcolor=blue]{hyperref}
+
+
+\geometry{margin=1in}
+\onehalfspacing
+
+\title{\Large \textbf{Finance and the Unexpected}}
+
+\author{
+Saranya Anantapantula\\
+\small University of Pennsylvania\\
+Dr. Jessica Wachter\\
+\small University of Pennsylvania - Finance Department
+}
+
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+% \begin{abstract}
+% still need to fill in!
+% \end{abstract}
+% https://www.econometricsociety.org/publications/es-data-editor-website/package
+
+\input{sec1}
+\input{sec2}
+\input{sec3}
+\input{sec4}
+\input{sec5}
+\input{sec6}
+\input{sec7}
+
+
+
+\appendix
+\section{Code and Data Availability} \label{appendix:code}
+
+All the code and data used in this study are available at the following GitHub repository: \\
+\url{https://github.com/anantapantulasa/unexpected_finance}
+
+
+\bibliographystyle{plainnat} % can replace with apa or mla! 
+\bibliography{references}
+
+\end{document}
